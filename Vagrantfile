@@ -5,6 +5,7 @@ VAGRANTFILE_API_VERSION = "2"
 
 $yum_install_script = <<SCRIPT
     sh /vagrant/scripts/common-install.sh
+    sh /vagrant/scripts/install-all.sh
 SCRIPT
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
