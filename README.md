@@ -26,7 +26,8 @@ vagrant up
     * http://192.168.56.110/rockmongo
 * Genghis
     * http://192.168.56.110/genghis.php
-* にアクセス
+
+にアクセス
 
 * mongo-express
     * 以下のコマンドを実行後
